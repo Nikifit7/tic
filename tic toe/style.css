@@ -1,0 +1,41 @@
+.container{
+    margin-left:auto;
+    margin-right: auto;
+    border: 1px solid rgba(202, 81, 81,7);
+    width: 1000px;
+    padding: 40px;
+text-align: center;
+border-radius: 100px;
+
+
+}
+
+.quadrado{
+
+    width: 100px;
+    height: 100px;
+    font-size: 80px;
+    text-align: center;
+    background-color: hotpink;
+    color:#2fb905;
+    border-radius: 20px;
+
+
+
+}
+.jogo{
+    margin: auto;
+
+}
+button {
+    background-color: blueviolet;
+    color:floralwhite;
+    margin-top: 5px;
+    font-size: 20px;
+
+}
+
+
+
+
+
